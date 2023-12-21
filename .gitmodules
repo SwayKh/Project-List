@@ -1,0 +1,21 @@
+[submodule "PERT"]
+	path = PERT
+	url = https://github.com/SwayKh/pert
+[submodule "JsCalculator"]
+	path = JsCalculator
+	url = https://github.com/SwayKh/calculator
+[submodule "Landing-page"]
+	path = Landing-page
+	url = https://github.com/SwayKh/Landing-page
+[submodule "RPS-Game"]
+	path = RPS-Game
+	url = https://github.com/SwayKh/rock-paper-scissors
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = https://github.com/SwayKh/etch-a-sketch
+[submodule "Pong"]
+	path = Pong
+	url = https://github.com/SwayKh/Pong
+[submodule "Go-Password-Generator"]
+	path = Go-Password-Generator
+	url = https://github.com/SwayKh/Go-Password-Generator/
