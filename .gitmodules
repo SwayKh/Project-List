@@ -19,3 +19,6 @@
 [submodule "Go-Password-Generator"]
 	path = Go-Password-Generator
 	url = https://github.com/SwayKh/Go-Password-Generator/
+[submodule "Startpage"]
+	path = Startpage
+	url = https://github.com/SwayKh/Startpage
