@@ -22,3 +22,6 @@
 [submodule "Startpage"]
 	path = Startpage
 	url = https://github.com/SwayKh/Startpage
+[submodule "gat"]
+	path = gat
+	url = https://github.com/Swaykh/gat
