@@ -25,3 +25,6 @@
 [submodule "gat"]
 	path = gat
 	url = https://github.com/Swaykh/gat
+[submodule "linksym"]
+	path = linksym
+	url = https://github.com/Swaykh/linksym
