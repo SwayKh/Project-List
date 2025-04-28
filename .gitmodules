@@ -28,3 +28,6 @@
 [submodule "linksym"]
 	path = linksym
 	url = https://github.com/Swaykh/linksym
+[submodule "forge"]
+	path = forge
+	url = https://github.com/Swaykh/forge
